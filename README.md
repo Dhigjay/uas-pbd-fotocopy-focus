@@ -23,7 +23,8 @@ Seluruh tahapan tersebut didokumentasikan dalam laporan dan direalisasikan melal
 ---
 
 ## 🔧 Tools yang Digunakan
-- MySQL  
+- MySQL
+- XAMPP 
 - MySQL Workbench  
 - GitHub  
 
@@ -31,15 +32,11 @@ Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasi
 
 ---
 
-## 📁 Struktur Repository
-
----
-
 ## 🚀 Cara Menjalankan Database
 
 1. Buka **MySQL Workbench**.  
 2. Buat atau pilih koneksi ke server MySQL.  
-3. Buka file `sql/fotocopy_db.sql`.  
+3. Buka file `sql/fotocopy_databaseb.sql`.  
 4. Jalankan seluruh script dari atas hingga bawah.  
 5. Database `fotocopy_db` akan terbentuk beserta tabel dan data contoh.  
 6. Jalankan query JOIN, GROUP BY, HAVING, dan Subquery untuk melihat hasil pengolahan data.
