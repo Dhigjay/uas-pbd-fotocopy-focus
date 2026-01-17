@@ -59,20 +59,18 @@ INSERT INTO transaksi VALUES
 (123, 98765458, 'k0001', 88123004, 1, '2025-05-19', 0, 7000, 7000, 0),
 (124, 98765457, 'k0002', 76348001, 2, '2025-05-20', 0, 19000, 19000, 0);
 
--- TCL: Skenario Transaksi
 
+-- TCL: Skenario Transaksi
 START TRANSACTION;
 INSERT INTO transaksi VALUES
 (125, 98765456, 'k0001', 76348001, 2, '2025-05-21', 0, 19000, 19000, 0);
 COMMIT;
 -- Gunakan ROLLBACK jika terjadi kesalahan
 
--- Query Pengolahan Data
-
 -- Menampilkan seluruh data transaksi
 SELECT * FROM transaksi;
 
--- JOIN: Menampilkan transaksi lengkap
+-- JOIN
 SELECT t.id_transaksi, p.nama_pelanggan, k.nama_kasir,
        b.jenis_layanan, t.jumlah_barang, t.sub_total, t.tanggal
 FROM transaksi t
