@@ -1,1 +1,54 @@
 
+# 📦 UAS Pemrograman Basis Data  
+## Sistem Basis Data Transaksi Fotocopy & Print “Focus”
+
+Repository ini berisi proyek Ujian Akhir Semester (UAS) mata kuliah **Pemrograman Basis Data** dengan studi kasus usaha *Fotocopy & Print “Focus”*.  
+Proyek ini berfokus pada perancangan dan implementasi basis data relasional untuk mengelola data transaksi secara terstruktur, mulai dari data mentah hingga siap digunakan dalam sistem nyata.
+
+Proses pengerjaan meliputi:
+- Analisis data awal  
+- Normalisasi hingga 1NF, 2NF, dan 3NF  
+- Perancangan ERD  
+- Implementasi ke DBMS MySQL  
+- Pembuatan tabel, relasi, dan constraint  
+- Pengisian data (DML)  
+- Pengelolaan transaksi (TCL)  
+- Query lanjutan (JOIN, GROUP BY, Agregasi, HAVING, Subquery)
+
+Seluruh tahapan tersebut didokumentasikan dalam laporan dan direalisasikan melalui script SQL yang dapat langsung dijalankan.
+
+---
+
+## 🔧 Tools yang Digunakan
+- MySQL  
+- MySQL Workbench  
+- GitHub  
+
+Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasis web atau desktop.
+
+---
+
+## 📁 Struktur Repository
+
+---
+
+## 🚀 Cara Menjalankan Database
+
+1. Buka **MySQL Workbench**.  
+2. Buat atau pilih koneksi ke server MySQL.  
+3. Buka file `sql/fotocopy_db.sql`.  
+4. Jalankan seluruh script dari atas hingga bawah.  
+5. Database `fotocopy_db` akan terbentuk beserta tabel dan data contoh.  
+6. Jalankan query JOIN, GROUP BY, HAVING, dan Subquery untuk melihat hasil pengolahan data.
+
+---
+
+## 👥 Anggota Kelompok
+
+- Afif Abdilah M.S — 240103152  
+- Maulana Dhigjay F.A — 240103166  
+- Shandy Satria W.P — 240103178  
+
+---
+
+Proyek ini dibuat sebagai bentuk penerapan konsep basis data relasional secara nyata, sekaligus sebagai dokumentasi proses perancangan database yang terstruktur dan sesuai kaidah akademik.
