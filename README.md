@@ -7,10 +7,13 @@ Proyek ini berfokus pada perancangan dan implementasi basis data relasional untu
 
 Proses pengerjaan meliputi:
 - Analisis data awal  
-- Normalisasi hingga 1NF, 2NF, dan 3NF  
+- Normalisasi hingga 1NF, 2NF, dan 3NF
+- Hubungan Antar Entitas
+- Derajat Kardinalitas
+- Relasi Antar Tabel
 - Perancangan ERD  
 - Implementasi ke DBMS MySQL  
-- Pembuatan tabel, relasi, dan constraint  
+- Pembuatan database dan tabel (DDL)  
 - Pengisian data (DML)  
 - Pengelolaan transaksi (TCL)  
 - Query lanjutan (JOIN, GROUP BY, Agregasi, HAVING, Subquery)
