@@ -2,7 +2,7 @@
 # UAS Pemrograman Basis Data  
 ## Sistem Basis Data Transaksi Fotocopy & Print “Focus”
 
-  Repository ini berisi proyek Ujian Akhir Semester (UAS) mata kuliah **Pemrograman Basis Data** dengan studi kasus usaha *Fotocopy & Print “Focus”*.  
+  Repository ini berisi project Ujian Akhir Semester (UAS) mata kuliah **Pemrograman Basis Data** dengan studi kasus usaha *Fotocopy & Print “Focus”*.  
 Proyek ini berfokus pada perancangan dan implementasi basis data relasional untuk mengelola data transaksi secara terstruktur, mulai dari data mentah hingga siap digunakan dalam sistem nyata.
 
 Proses pengerjaan meliputi:
