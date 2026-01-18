@@ -53,8 +53,3 @@ Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasi
 
 Repository ini diharapkan dapat menjadi contoh penerapan konsep basis data relasional yang sistematis, mulai dari analisis data mentah hingga implementasi nyata di DBMS.
 
-
-
----
-
-Proyek ini dibuat sebagai bentuk penerapan konsep basis data relasional secara nyata, sekaligus sebagai dokumentasi proses perancangan database yang terstruktur dan sesuai kaidah akademik.
