@@ -36,7 +36,7 @@ Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasi
 
 1. Buka **MySQL Workbench**.  
 2. Buat atau pilih koneksi ke server MySQL.  
-3. Buka file `sql/fotocopy_databaseb.sql`.  
+3. Buka file `sql/fotocopy_database.sql`.  
 4. Jalankan seluruh script dari atas hingga bawah.  
 5. Database `fotocopy_db` akan terbentuk beserta tabel dan data contoh.  
 6. Jalankan query JOIN, GROUP BY, HAVING, dan Subquery untuk melihat hasil pengolahan data.
@@ -47,7 +47,13 @@ Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasi
 
 - Afif Abdilah M.S — 240103152  
 - Maulana Dhigjay F.A — 240103166  
-- Shandy Satria W.P — 240103178  
+- Shandy Satria W.P — 240103178
+
+---
+
+Repository ini diharapkan dapat menjadi contoh penerapan konsep basis data relasional yang sistematis, mulai dari analisis data mentah hingga implementasi nyata di DBMS.
+
+
 
 ---
 
