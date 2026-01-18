@@ -5,9 +5,9 @@ Fotocopy & Print “Focus”.
 
 Derajat kardinalitas digunakan untuk menjelaskan banyaknya hubungan
 antar entitas, seperti:
-- 1 : 1 (satu ke satu)
-- 1 : N (satu ke banyak)
-- N : N (banyak ke banyak)
+- 1 : 1 (one ke one)
+- 1 : N (oneu ke many)
+- N : N (many ke many)
 
 Dalam proyek ini, kardinalitas yang diterapkan antara lain:
 1. Pelanggan → Transaksi (1 : N)  
