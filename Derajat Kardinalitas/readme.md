@@ -7,7 +7,7 @@ Derajat kardinalitas digunakan untuk menjelaskan banyaknya hubungan
 antar entitas, seperti:
 - 1 : 1 (satu ke satu)
 - 1 : N (satu ke banyak)
-- N : M (banyak ke banyak)
+- N : N (banyak ke banyak)
 
 Dalam proyek ini, kardinalitas yang diterapkan antara lain:
 1. Pelanggan → Transaksi (1 : N)  
