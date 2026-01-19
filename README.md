@@ -6,6 +6,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Dhigjay/Dhigjay/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 👥 Anggota Kelompok
 
 - Afif Abdilah M.S — 240103152  
