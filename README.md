@@ -53,3 +53,7 @@ Proyek ini murni berfokus pada basis data dan tidak menggunakan aplikasi berbasi
 
 Repository ini diharapkan dapat menjadi contoh penerapan konsep basis data relasional yang sistematis, mulai dari analisis data mentah hingga implementasi nyata di DBMS.
 
+![poster ](https://github.com/user-attachments/assets/d066dc76-93ca-4771-9207-a5347e2d7008)
+
+
+
