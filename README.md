@@ -209,10 +209,8 @@ Poster ini memuat:
 - Query wajib  
 - Tujuan proyek  
 
-<img width="1414" height="2000" alt="pixel art (1)" src="https://github.com/user-attachments/assets/f073bae3-519b-43df-a3b9-1eaff44f97ea" />
-
 ---
-
+<img width="2121" height="2999" alt="pixel art (1) (1)" src="https://github.com/user-attachments/assets/635f9f0c-7d23-4d93-9e24-fe7a5d3f3963" />
 
 Repository ini diharapkan menjadi contoh penerapan konsep
 **basis data relasional yang sistematis dan akademis**,
