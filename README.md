@@ -149,6 +149,8 @@ ERD pada proyek ini menggambarkan:
 Dari ERD inilah seluruh struktur tabel, PK, dan FK diturunkan lalu
 diimplementasikan ke MySQL menggunakan MySQL Workbench.
 
+![ERD_](https://github.com/user-attachments/assets/8c5e197e-f14f-49d9-9a83-e1413dc534af)
+
 ---
 
 ## ⚙️ Implementasi ke DBMS
