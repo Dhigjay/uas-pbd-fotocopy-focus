@@ -1,3 +1,11 @@
+
+## 👥 Anggota Kelompok
+
+- Afif Abdilah M.S — 240103152  
+- Maulana Dhigjay F.A — 240103166  
+- Shandy Satria W.P — 240103178  
+
+---
 # 🎓 UAS Pemrograman Basis Data  
 ## Sistem Basis Data Transaksi Fotocopy & Print “Focus”
 
@@ -191,13 +199,6 @@ Poster ini memuat:
 
 ---
 
-## 👥 Anggota Kelompok
-
-- Afif Abdilah M.S — 240103152  
-- Maulana Dhigjay F.A — 240103166  
-- Shandy Satria W.P — 240103178  
-
----
 
 Repository ini diharapkan menjadi contoh penerapan konsep
 **basis data relasional yang sistematis dan akademis**,
