@@ -209,8 +209,7 @@ Poster ini memuat:
 - Query wajib  
 - Tujuan proyek  
 
-![pixel art](https://github.com/user-attachments/assets/327d5f9d-d74f-415e-a346-88c9c65f2917)
-
+<img width="1414" height="2000" alt="pixel art (1)" src="https://github.com/user-attachments/assets/f073bae3-519b-43df-a3b9-1eaff44f97ea" />
 
 ---
 
